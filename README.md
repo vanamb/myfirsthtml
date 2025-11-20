@@ -1,4 +1,4 @@
-# myfirsthtml
+# Personal Website 
 
-#This is a test.  
-#I am learning Github and will be using html to create a Page 
+#Hi, my name is Vana and I am learning how to use GitHub. 
+#This project is for my personal website, where I hope to demonstrate my skills and show work I have done. 
